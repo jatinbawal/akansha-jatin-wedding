@@ -17,3 +17,6 @@ Eight selected 3D animated illustrations are compressed to WebP for faster loadi
 
 ## Notes
 The story text is a light narrative draft based on Class 6 and a long-distance chapter; review it before sending to guests. No RSVP or family details are included.
+
+## Updating illustrated images
+Replace the WebP files inside assets/images/ using the same filenames. Re-upload the changed files to GitHub. Prefer clean source artwork and export to WebP at good quality; do not change HTML image paths.
